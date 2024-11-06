@@ -1,10 +1,13 @@
-<h1>Ngozi Ihemelandu <br/><a href="https://github.com/nihemelandu">Data Scientist</a>, <a href="https://www.linkedin.com/in/nihemelandu/">Experimentation, Causal Inference, Machine Learning</a>
+<h1>Ngozi Ihemelandu <br/>Data Scientist <br/> <a href="https://www.linkedin.com/in/nihemelandu/">linkedin</a>
 </h1>
+<h2>📺Independent Projects:</h2>
 
+  - <b>Customer Churn Project (AlgoExpert)</b>
+  <!--- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)-->
 <h2>👨‍💻 Research Projects:</h2>
 
-- <b>Significance Testing for Recommendation Experiments</b>
-- <b>Multiple Testing for Recommendation System Experiments</b>
+- <b>[Pairwise Significance Testing for Recommendation Experiments](https://github.com/Ngozi-Ihemelandu/Prj2-Pairwise-Testing)</b>
+- <b>[Multiple Testing for Recommendation System Experiments](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 
 
 <h2>📺 Projects</h2>
