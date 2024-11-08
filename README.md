@@ -2,7 +2,7 @@
 </h1>
 <h2>📺Independent Projects:</h2>
 
-  - <b>[Customer Churn](https://github.com/nihemelandu/Customer-Analytics.git)(Descriptive Analytics) </b>
+  - <b>[Customer Churn] (https://github.com/nihemelandu/Customer-Analytics.git)(Descriptive Analytics) </b>
   <!--- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)-->
 <h2>👨‍💻 Research Projects:</h2>
 
