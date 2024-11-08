@@ -7,7 +7,7 @@
 <h2>👨‍💻 Research Projects:</h2>
 
 - <b>[Pairwise Significance Testing for Recommendation Experiments](https://github.com/Ngozi-Ihemelandu/Prj2-Pairwise-Testing)</b>
-- <b>[Multiple Testing for Recommendation System Experiments](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Multiple Testing for Recommendation System Experiments](https://github.com/Ngozi-Ihemelandu/Prj3-Multiple-Testing)</b>
 
 
 <h2>📺 Projects</h2>
