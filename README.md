@@ -11,9 +11,9 @@
 
 
 <h2>📺 Exploratory Data Analysis</h2>
-  - <b>[With Python](https://github.com/nihemelandu/Customer-Analytics.git) </b>
+  - <b>[With Python](https://github.com/nihemelandu/EDA_PYTHON.git) </b>
 
-
+  
 <h2> 🤳 Connect with me:</h2>
 
 
