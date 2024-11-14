@@ -10,8 +10,8 @@
 - <b>[Multiple Testing for Recommendation System Experiments](https://github.com/Ngozi-Ihemelandu/Prj3-Multiple-Testing)</b>
 
 
-<h2>📺 Projects</h2>
-
+<h2>📺 Exploratory Data Analysis</h2>
+  - <b>[With Python](https://github.com/nihemelandu/Customer-Analytics.git) </b>
 
 
 <h2> 🤳 Connect with me:</h2>
