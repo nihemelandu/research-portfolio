@@ -2,10 +2,10 @@
 </h1>
 <h2>📺Data Analytics Techniques and Methodologies:</h2>
 
-  - <b>[Descriptive Analytics](https://github.com/nihemelandu/Customer-Analytics.git) </b>
-  - <b>[Causal Inference](https://github.com/nihemelandu/Customer-Analytics.git) </b>
-  - <b>[Predictive Analytics](https://github.com/nihemelandu/Customer-Analytics.git) </b>
-  - <b>[Prescriptive Analytics](https://github.com/nihemelandu/Customer-Analytics.git) </b>
+  - <b>[Descriptive Analytics](https://github.com/nihemelandu/Descriptive-Analytics.git) </b>
+  - <b>[Causal Inference](https://github.com/nihemelandu/Causal-Inference.git) </b>
+  - <b>[Predictive Analytics](https://github.com/nihemelandu/Predictive-Analytics.git) </b>
+  - <b>[Prescriptive Analytics](https://github.com/nihemelandu/Prescriptive-Analytics.git) </b>
   <!--- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)-->
 <h2>📺Independent Projects:</h2>
 <h2>👨‍💻 Research Projects:</h2>
