@@ -1,6 +1,6 @@
 Welcome to my GitHub portfolio! Below are three (3) key data science projects I've worked on:
 
-1. **[Comparing Demand Forecasting Models](./Project-1-Comparing-Demand-Forecasting-Models)**  
+1. **[Comparing Demand Forecasting Models](https://github.com/nihemelandu/Comparing-Demand-Forecasting-Models.git)**  
    A detailed analysis of various demand forecasting models, comparing their performance using real-world data.
 
 2. **[Using Causal Inference to Determine the Effect of Traffic Congestion on Delivery Time](./Project-2-Traffic-Congestion-Delivery-Time-Impact/README.md)**  
