@@ -1,16 +1,52 @@
-Welcome to my GitHub portfolio! Below are three (3) key data science projects I've worked on:
+# Welcome to My Research Portfolio
 
-1. **[Comparing Demand Forecasting Models](https://github.com/nihemelandu/Demand-Forecasting-Models.git)**  
-   A detailed analysis of various demand forecasting models, comparing their performance using real-world data.
+## Research Statement
 
-2. **[Using Causal Inference to Determine the Effect of Traffic Congestion on Delivery Time](./Project-2-Traffic-Congestion-Delivery-Time-Impact/README.md)**  
-   An investigation into how traffic congestion impacts delivery times, using causal inference techniques.
-   
-3. **[PhD Research on Statistical Inference in Recommendation Systems Evaluation](./Project-3-PhD-Research-Statistical-Inference-in-Recommendation-Systems/README.md)**  
-   A deep dive into statistical evaluation methods for recommendation systems, focusing on causal inference and hypothesis testing.
+My past research focused on identifying and recommending best practices for applying statistical inference in the analysis of recommender system evaluation experiments. The goal was to enhance the reliability of performance metrics by addressing key statistical challenges and improving the accuracy of evaluation results.
 
+Currently, I am exploring causal inference techniques to estimate the true causal effects of recommended items on user behavior. This research aims to refine the reliability of performance metrics in recommender systems by better understanding the causal relationships between recommendations and user interactions.
 
-Feel free to explore the project folders for in-depth analysis, code, and results!
+Looking ahead, I plan to apply simulation modeling, decision optimization, and causal inference methods to improve decision-making processes in supply chain operations under uncertainty. This future work will focus on enhancing decision quality and operational efficiency in complex, dynamic supply chain environments.
+
+---
+
+## Publications
+
+### [Statistical Inference: The Missing Piece of RecSys Experiment Reliability Discourse](https://arxiv.org/abs/2109.06424)
+*Discusses how statistical inference is often overlooked in recommender system evaluations and outlines challenges that threaten experimental reliability.*
+
+### [Inference at Scale: Significance Testing for Large Search and Recommendation Experiments](https://arxiv.org/abs/2305.02461)
+*Explores how significance tests behave in large-scale experiments, emphasizing the need to consider practical effect sizes alongside p-values.*
+
+### [Multiple Testing for IR and Recommendation System Experiments](https://md.ekstrandom.net/pubs/ecir2024-multiple-testing.pdf)
+*Examines the multiple-comparison problem (MCP) in evaluations involving more than two systems, which can lead to inflated false discoveries. This study extends the investigation to recommendation system evaluations and explores procedures that control the False Discovery Rate (FDR).*
+
+### [Candidate Set Sampling for Evaluating Top-N Recommendation](https://arxiv.org/pdf/2309.11723)
+*Analyzes how candidate set selection strategies interact with popularity bias and affect the accuracy of evaluation metrics in top-N recommendation tasks.*
+
+---
+
+## Future Research Goals
+
+### Causal Inference in Recommender Systems
+I aim to deepen my exploration of **causal inference methods** to estimate the true causal effects of recommended items on user behavior. This work will focus on refining the evaluation metrics of recommender systems by understanding the direct and indirect effects of recommendations on user actions, ultimately leading to more accurate and reliable performance measurements.
+
+### Supply Chain Decision-Making Under Uncertainty
+In the future, I plan to apply **simulation modeling**, **decision optimization**, and **causal inference methods** to improve decision-making processes in **supply chain operations under uncertainty**. This research will seek to optimize supply chain decision-making, particularly in dynamic environments, and help enhance the operational efficiency of supply chains faced with uncertainty in demand, supply, and logistics.
+
+### Integrating Machine Learning with Causal Inference
+A significant goal of my future work is to integrate **machine learning** with **causal inference** methods to develop more robust, data-driven solutions for both recommender systems and supply chain applications. This will involve designing novel frameworks that combine the power of ML models with causal reasoning to provide deeper insights and better decision-making capabilities in real-world systems.
+
+---
+
+## About Me
+
+I hold a PhD with a research focus on statistical and causal inference methods for evaluating recommender systems. My work focuses on improving the reliability of recommender system evaluations by addressing statistical challenges such as significance testing, multiple comparisons, and evaluation bias. I am currently expanding into decision-making under uncertainty in supply chain operations, using simulation, optimization, and causal inference techniques.
+
+---
+
+Feel free to explore the individual papers for more in-depth discussions of the methodologies and findings. For any questions or further details on my work, feel free to reach out!
+
 
 
 
