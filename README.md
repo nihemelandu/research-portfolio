@@ -39,6 +39,45 @@ A significant goal of my future work is to integrate **machine learning** with *
 
 ---
 
+## Applied Projects 🛠️
+
+### **Forecasting for Predictive Modeling**  
+**Skills**: Feature engineering, data preprocessing, time series analysis, machine learning (XGBoost, Random Forest), Python (Pandas, Scikit-learn)
+
+Developed a forecasting model to predict future outcomes such as customer behavior, sales, or demand, using historical data. This project demonstrates the ability to handle **time-dependent or feature-driven data** and leverage various forecasting techniques to make accurate predictions.
+
+Key steps:
+- **Feature Engineering**: Processed raw data to extract meaningful features that can help improve prediction accuracy.
+- **Modeling**: Applied forecasting models (e.g., time series models for sequential data or machine learning models for feature-driven forecasting).
+- **Evaluation**: Used relevant performance metrics (e.g., RMSE, MAPE) to assess model effectiveness and ensure reliable predictions.
+
+---
+
+### **Causal Inference for Estimating Treatment Effects**  
+**Skills**: Causal analysis, statistical modeling, hypothesis testing, Python (Pandas, Statsmodels)
+
+Applied **causal inference** methods to identify and estimate the causal relationships between variables in a dataset. The goal was to understand how changes in one variable directly affect another, providing insights for better decision-making and intervention planning.
+
+Key steps:
+- **Data Exploration**: Identified key variables and potential causal relationships.
+- **Causal Modeling**: Applied causal inference techniques (e.g., regression discontinuity, propensity score matching, difference-in-differences) to estimate treatment effects or causal impacts.
+- **Evaluation**: Validated the causal conclusions using statistical tests and sensitivity analysis.
+
+---
+
+### **Discrete-Event Simulation of Bank Client Service**  
+**Skills**: Simulation modeling, Python (SimPy, Matplotlib)
+
+Created a **discrete-event simulation** for a bank’s client service system, where clients arrive at the bank, use ATM or teller services, and leave. The simulation tracks key performance indicators, such as **resource utilization** (e.g., ATM and teller usage), and provides insights into the efficiency of the service system.
+
+Key steps:
+- **Simulation Design**: Modeled client arrival, ATM, and teller service processes as discrete events.
+- **Performance Metrics**: Analyzed key metrics such as **wait times**, **resource utilization**, and **service throughput**.
+- **Modeling and Analysis**: Used Python (SimPy) for modeling the system and visualized the results using Matplotlib.
+
+---
+
+
 ## About Me
 
 I hold a PhD with a research focus on statistical and causal inference methods for evaluating recommender systems. My work focuses on improving the reliability of recommender system evaluations by addressing statistical challenges such as significance testing, multiple comparisons, and evaluation bias. I am currently expanding into decision-making under uncertainty in supply chain operations, using simulation, optimization, and causal inference techniques.
