@@ -30,7 +30,7 @@ Designing hybrid frameworks that combine the predictive power of machine learnin
 - Interpretability in high-dimensional, complex systems
 - Applications across personalization, logistics, and operations
 
-👉 See [RESEARCH_PLAN.md](./RESEARCH_PLAN.md) for detailed methodology and project roadmap.
+👉 See [future-research](./future-research/README.md) for detailed methodology and project roadmap.
 
 
 ## Publications
