@@ -6,7 +6,7 @@ My past research focused on identifying and recommending best practices for appl
 
 Currently, I am exploring causal inference techniques to estimate the true causal effects of recommended items on user behavior. This research aims to refine the reliability of performance metrics in recommender systems by better understanding the causal relationships between recommendations and user interactions.
 
-Looking ahead, I plan to apply simulation modeling, decision optimization, and causal inference methods to improve decision-making processes in supply chain operations under uncertainty. This future work will focus on enhancing decision quality and operational efficiency in complex, dynamic supply chain environments.
+Looking ahead, I plan to use data to understand the dynamic relationship between algorithmic customer interactions and supply chain operations—how digital experiences and demand signals ripple through procurement, inventory, and fulfillment, and how those operational realities, in turn, define what experiences customers ultimately receive. This future work will focus on enhancing decision quality and operational efficiency in complex, dynamic supply chain environments.
 
 ---
 
