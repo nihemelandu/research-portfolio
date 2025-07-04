@@ -30,7 +30,7 @@ Designing hybrid frameworks that combine the predictive power of machine learnin
 - Interpretability in high-dimensional, complex systems
 - Applications across personalization, logistics, and operations
 
-👉 See [future-research]([./future-research/README.md](https://github.com/nihemelandu/future-research.git)) for detailed methodology and project roadmap.
+👉 See [future-research](https://github.com/nihemelandu/future-research.git) for detailed methodology and project roadmap.
 
 
 ## Publications
