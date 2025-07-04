@@ -2,9 +2,36 @@
 
 ## Research Statement
 
+### 🔭 Past Research
 My past research focused on identifying and recommending best practices for applying statistical inference in the analysis of recommender system evaluation experiments. The goal was to enhance the reliability of performance metrics by addressing key statistical challenges and improving the accuracy of evaluation results.
 
+### 🔭 Current Research
 Currently, I am exploring causal inference techniques to estimate the true causal effects of recommended items on user behavior. This research aims to refine the reliability of performance metrics in recommender systems by better understanding the causal relationships between recommendations and user interactions.
+
+### 🔭 Future Research Vision
+
+My future research spans the intersection of **causal inference**, **machine learning**, and **decision-making under uncertainty**, with a focus on:
+
+#### 📌 Causal Inference in Recommender Systems
+Exploring causal inference methods to estimate the true effects of recommended items on user behavior. This includes:
+- Understanding direct and indirect effects of recommendations
+- Improving evaluation metrics beyond clicks and conversions
+- Enhancing trust in algorithmic recommendations through causal metrics
+
+#### 📌 Supply Chain Decision-Making Under Uncertainty
+Applying simulation, optimization, and causal inference to improve supply chain operations in dynamic, uncertain environments:
+- Modeling decisions under stochastic demand and supply
+- Evaluating interventions for procurement, inventory, and logistics
+- Enhancing operational robustness using counterfactual reasoning
+
+#### 📌 Integrating Machine Learning with Causal Inference
+Designing hybrid frameworks that combine the predictive power of machine learning with causal reasoning to support real-world decisions:
+- Scalable, data-driven causal estimation
+- Interpretability in high-dimensional, complex systems
+- Applications across personalization, logistics, and operations
+
+👉 See [RESEARCH_PLAN.md](./RESEARCH_PLAN.md) for detailed methodology and project roadmap.
+
 
 ## Publications
 
